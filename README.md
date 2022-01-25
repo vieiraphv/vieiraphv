@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vieiraphv
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript and Angular
+- 🌱 I’m currently learning Javascript and NodeJS
 - 💞️ I’m looking to collaborate on anything i can
 - 📫 How to reach me: paulo_sng@hotmail.com
 
